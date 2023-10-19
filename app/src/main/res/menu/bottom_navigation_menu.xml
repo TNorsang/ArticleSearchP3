@@ -13,4 +13,11 @@
         android:icon="@drawable/baseline_article_24"
         android:title="Articles"
         app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nightMode"
+        android:enabled="true"
+        android:icon="@drawable/baseline_nights_stay_24"
+        android:title="Night Mode"
+        app:showAsAction="ifRoom"
+        />
 </menu>
